@@ -1,0 +1,7 @@
+LICENSE
+setup.py
+scrapetron.egg-info/PKG-INFO
+scrapetron.egg-info/SOURCES.txt
+scrapetron.egg-info/dependency_links.txt
+scrapetron.egg-info/requires.txt
+scrapetron.egg-info/top_level.txt
