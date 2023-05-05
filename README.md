@@ -11,7 +11,7 @@ pip install scrapetron
 ## Usage
 Here's a simple example of how to use Scrapetron to scrape a web page:
 
-```
+```python
 from scrapetron import Scrapetron
 url = 'https://www.example.com'
 scraper = Scrapetron(url)
