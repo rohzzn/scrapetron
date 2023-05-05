@@ -18,7 +18,7 @@ scraper = Scrapetron(url)
 data = scraper.get_text()
 print(data)
 ```
-In this example, we create a new Scrapetron object with the URL of the web page we want to scrape. We then call the get_text method to extract the text content of the page.
+Here in this example, we create a new Scrapetron object with the URL of the web page we want to scrape. We then call the get_text method to extract the text content of the page.
 
 ## Features
 Scrapetron provides a number of features for web scraping, including:
